@@ -40,3 +40,10 @@ Catches invalid numerical inputs using a try-except block to ensure the program 
 5.User Feedback:
 
 Displays error messages for invalid operations or when attempting division by zero.
+
+
+
+
+
+OUTPUT:
+
