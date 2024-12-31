@@ -4,9 +4,9 @@ Company : CODETECH IT SOLUTION
 
 ID:CT6WDS2402
 
-Domain: Python
+Domain: PYTHON PROGEAMMING
 
-Duration:November To Junuary
+Duration:November2024 To Junuary 2025
 
 Mentor:
 
