@@ -9,6 +9,7 @@ Domain: PYTHON PROGEAMMING
 Duration:November2024 To Junuary 2025
 
 Mentor:
+------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -20,8 +21,7 @@ Key Features:
 
 Prompts the user to input two numbers (either integers or floats).
 Asks the user to choose an operation (Addition, Subtraction, Multiplication, Division) by selecting from a numbered menu.
-
-
+------------------------------------------------------------------------------------------------------------------------------------------
 
 2. Operations:
 
